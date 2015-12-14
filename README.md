@@ -1,1 +1,1 @@
-# preside-cms-documentor
+# preside-ext-documentor
