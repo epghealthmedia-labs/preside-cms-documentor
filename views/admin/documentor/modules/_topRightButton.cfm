@@ -8,7 +8,7 @@
 		
 		<!--- Future Extension
 
-		<a class="pull-right inline" href="#event.buildAdminLink( linkTo="urlRedirects.addRule" )#" data-global-key="a">
+		<a class="pull-right inline" href="#event.buildAdminLink( linkTo="" )#" data-global-key="a">
 			
 			<button class="btn btn-success btn-sm">
 				

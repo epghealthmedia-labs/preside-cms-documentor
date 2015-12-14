@@ -13,14 +13,6 @@
 		
 		<li>
 			<h5><a href="#event.buildAdminLink( linkTo='documentor.services')#">Services</a></h5>
-		</li>
-
-		<li>
-			<h5><a href="javascript:void(0);">Handlers</a></h5>
-		</li>
-
-		<li>
-			<h5><a href="javascript:void(0);">Helpers</a></h5>
 		</li>					
 	</nav>
 
