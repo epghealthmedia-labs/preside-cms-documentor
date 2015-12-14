@@ -2,6 +2,7 @@
 
 A presideCMS extension for providing documentation for Preside-CMS https://www.presidecms.com/ project.
 
+
 Current Features
 <ol>
 <li>Data Objects
@@ -18,6 +19,7 @@ Current Features
 </li>
 </ol>
 
+
 Usage
 <ol>
 	<li>Download or Clone the latest copy onto your preside application's "extension" folder.</li>
@@ -25,6 +27,7 @@ Usage
 	<li>Do a framework re-initialization.</li>
 	<li>On the Preside CMS Admin Menu Bar select the [System->Documentor]</li>
 </ol>
+   
    
 Future Improvements
 <ol>
