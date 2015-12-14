@@ -2,8 +2,7 @@
 
 A presideCMS extension for providing documentation for Preside-CMS https://www.presidecms.com/ project.
 
-
-Current Features
+<h4>Current Features</h4>
 <ol>
 <li>Data Objects
 	<ol>
@@ -19,8 +18,7 @@ Current Features
 </li>
 </ol>
 
-
-Usage
+<h4>Usage</h4>
 <ol>
 	<li>Download or Clone the latest copy onto your preside application's "extension" folder.</li>
 	<li>In the "extension.json" file (under the extension folder) add this dataset 		<code>{"priority":0,"name":"preside-ext-documentor","active":true}</code> </li>
@@ -29,7 +27,7 @@ Usage
 </ol>
    
    
-Future Improvements
+<h4>Future Improvements</h4>
 <ol>
 	<li>Static Site Generation</li>
 	<li>Improved UI Design</li>
